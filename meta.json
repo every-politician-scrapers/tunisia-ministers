@@ -1,20 +1,11 @@
 {
     "jurisdiction": {
-      "name": "XXX",
-      "id": "Qxxx"
+      "name": "Tunisia",
+      "id": "Q948"
     },
     "cabinet": {
-      "id": "Qxxx",
-      "start": "YYYY-MM-DD",
-      "parent": "Qxxx"
-    },
-    "source": {
-        "url":   "XXX",
-        "title": "XXX",
-        "lang":  {
-            "code": "en",
-            "wikidata": "Q1860"
-        }
-    },
-    "agent": "every-politican-scrapers/XXX"
+      "id": "Q108866852",
+      "start": "2021-101-11",
+      "parent": "Q526548"
+    }
 }
