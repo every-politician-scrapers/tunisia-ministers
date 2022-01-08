@@ -1,0 +1,83 @@
+{
+  "title": "Chiraz Latiri",
+  "pageID": 66333144,
+  "categories": [
+    "1972 births",
+    "People from Sousse Governorate",
+    "Women government ministers of Tunisia",
+    "Government ministers of Tunisia",
+    "Manouba University faculty",
+    "University of Lorraine alumni",
+    "Living people",
+    "Culture ministers",
+    "21st-century Tunisian women politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Chiraz Latiri Cherif (born 1972) is a Tunisian academic, cultural researcher and politician.",
+              "formatting": {
+                "bold": [
+                  "Chiraz Latiri Cherif"
+                ]
+              }
+            },
+            {
+              "text": "In 2006, she joined the staff of Manouba University where she specialized in cinema and multimedia.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Manouba University"
+                }
+              ]
+            },
+            {
+              "text": "After heading the Tunisian Cinema and Image Centre (2017–2019), in February 2020 she was appointed Minister of Culture.",
+              "links": [
+                {
+                  "text": "Minister of Culture",
+                  "type": "internal",
+                  "page": "Ministry of Culture (Tunisia)"
+                }
+              ]
+            },
+            {
+              "text": "That month, the Arab Cinema Center and The Hollywood Reporter honoured Latiri with the Arab Cinema Personality of The Year award.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "The Hollywood Reporter"
+                }
+              ],
+              "formatting": {
+                "italic": [
+                  "The Hollywood Reporter"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "images": [
+        {
+          "file": "File:Chiraz Laatiri.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Chiraz_Laatiri.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Chiraz_Laatiri.jpg",
+          "caption": "Chiraz Latiri (2020)",
+          "links": []
+        }
+      ],
+      "templates": [
+        {
+          "description": "Tunisian academic, director of cultural institutions and politician",
+          "template": "short description"
+        }
+      ]
+    }
+  ]
+}
