@@ -1,0 +1,92 @@
+{
+  "title": "Souad Abderrahim",
+  "pageID": 57820081,
+  "categories": [
+    "Living people",
+    "Tunisian Muslims",
+    "Mayors of Tunis",
+    "Tunisian women in politics",
+    "Women mayors",
+    "Ennahda politicians",
+    "People from Gabès Governorate",
+    "1964 births"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Souad Abderrahim (born 1964) is a Tunisian politician.",
+              "formatting": {
+                "bold": [
+                  "Souad Abderrahim"
+                ]
+              }
+            },
+            {
+              "text": "She was elected as the mayor of Tunis, Tunisia's capital, on July 3, 2018.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Tunis"
+                }
+              ]
+            },
+            {
+              "text": "She is a member of the Islamist Ennahda Movement, and the first woman to serve as Tunis's mayor.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Ennahda Movement"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Tunisian politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Souad Abderrahim"
+          },
+          "image": {
+            "text": "SouadAbderrahimANC2011.jpg"
+          },
+          "office": {
+            "text": "Mayor of Tunis",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tunis"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "July 3, 2018"
+          },
+          "predecessor": {
+            "text": "Seifallah Lasram"
+          },
+          "party": {
+            "text": "Ennahda Movement",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ennahda Movement"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
