@@ -6,35 +6,6 @@ require 'pry'
 
 require 'open-uri/cached'
 
-class WikipediaDate
-  # Ukrainian dates
-  class French < WikipediaDate
-    REMAP = {
-      'en cours'  => '',
-      'januar'    => 'January',
-      'février'   => 'February',
-      'mars'      => 'March',
-      'avril'     => 'April',
-      'mai'       => 'May',
-      'juin'      => 'June',
-      'juillet'   => 'July',
-      'août'      => 'August',
-      'septembre' => 'September',
-      'octobre'   => 'October',
-      'novembre'  => 'November',
-      'décembre'  => 'December',
-    }.freeze
-
-    def remap
-      super.merge(REMAP)
-    end
-
-    def date_str
-      super.gsub('1er', '1')
-    end
-  end
-end
-
 class OfficeholderList < OfficeholderListBase
   decorator RemoveReferences
   decorator UnspanAllTables
@@ -51,14 +22,6 @@ class OfficeholderList < OfficeholderListBase
 
     def empty?
       false
-    end
-
-    def endDate
-      super rescue binding.pry
-    end
-
-    def date_class
-      WikipediaDate::French
     end
 
     def tds
