@@ -1,19 +1,14 @@
 @@,wdid,name,position
-->,Q99574115->Q98828570,Mohamed Bousseta->Leïla Jaffel,Minister of Justice
-->,Q98828362->Q108159069,Ali Kooli->Sihem Boughdiri,Minister of Finance
-->,Q88467296->Q108892387,Chiraz Latiri->Hayet Guettat,Minister of Culture
 ->,Q12270270,Othman Jerandi,"Minister of Foreign Affairs->Minister of Foreign Affairs, Migration and Tunisians Abroad"
 ->,Q108741355,Najla Bouden,Prime Minister of Tunisia->Head of Government
-->,Q107707866->Q98828355,Ridha Gharsalloui->Taoufik Charfeddine,Minister of Interior
----,Q99542892,Salwa Sghayer,Industry Minister of Tunisia
----,Q99539200,Faouzi Mehdi,Minister of Heath
----,Q92353813,Selma Ennaifer,Minister of Foreign Affairs
-+++,Q98828599,Fethi Sellaouti,Minister of Education
++++,Q98828570,Leïla Jaffel,Minister of Justice
 +++,Q98828560,Kamel Deguiche,Minister of Youth and Sports
++++,Q98828355,Taoufik Charfeddine,Minister of Interior
 +++,Q86329266,Ali Mrabet,Minister of Health
 +++,Q52450891,Amel Moussa,"Minister of Women, Family, Children and Elderly"
 +++,Q109544937,Aïda Hamdi,Secretary of State for International Cooperation
 +++,Q109544397,Mohamed Rekik,Minister of State Domains and Land Affairs
++++,Q108892387,Hayet Guettat,Minister of Culture
 +++,Q108892383,Leila Chikhaoui,Minister of Environment
 +++,Q108892377,Moncef Boukthir,"Minister of Higher Education, Scientific Research"
 +++,Q108892375,Nasreddine Nsibi,"Minister of Employment and Vocational Training, Government spokesperson"
@@ -28,3 +23,4 @@
 +++,Q108883556,Imed Memmich,Minister of Defence
 +++,Q108865358,Samir Saïed,Minister of Economy and Planning
 +++,Q108163613,Nizar Ben Néji,Minister of Communication Technologies
++++,Q108159069,Sihem Boughdiri,Minister of Finance
