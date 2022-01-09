@@ -1,0 +1,64 @@
+{
+  "title": "Amel Moussa",
+  "pageID": 57258090,
+  "categories": [
+    "Tunisian women poets",
+    "Tunisian women journalists",
+    "Year of birth missing (living people)",
+    "Living people",
+    "21st-century Tunisian women writers",
+    "21st-century Tunisian poets",
+    "Tunisian writers in Arabic",
+    "Women government ministers of Tunisia",
+    "21st-century Tunisian women politicians",
+    "Independent politicians in Tunisia"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Amel Moussa is a Tunisian poet, teacher and journalist.",
+              "formatting": {
+                "bold": [
+                  "Amel Moussa"
+                ]
+              }
+            },
+            {
+              "text": "She has published two books of poetry, and her poems have been translated in Italian, Spanish, French, Polish, German and Czech."
+            },
+            {
+              "text": "She has won Tunisia's National Creative Award for her poetry and an award from the Arab Women’s Organization for her journalism in Tunisia."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 2021, she was appointed to government."
+            },
+            {
+              "text": "She is Minister Family, Women, Children and the Elderly in the Bouden Cabinet.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bouden Cabinet"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "April 2018",
+          "template": "refimprove"
+        }
+      ]
+    }
+  ]
+}
