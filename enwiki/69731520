@@ -1,0 +1,75 @@
+{
+  "title": "Sihem Boughdiri",
+  "pageID": 69731520,
+  "categories": [
+    "1965 births",
+    "Living people",
+    "Female finance ministers",
+    "Women government ministers of Tunisia",
+    "Finance ministers of Tunisia",
+    "21st-century Tunisian politicians",
+    "21st-century Tunisian women politicians",
+    "Independent politicians in Tunisia",
+    "Women bankers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sihem Boughdiri Nemsia (Arabic: سهام بوغديري نمصية ) is a Tunisian banker and politician.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Arabic"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Sihem Boughdiri Nemsia"
+                ],
+                "italic": [
+                  "Arabic"
+                ]
+              }
+            },
+            {
+              "text": "She has been Minister of Finance in the Bouden Cabinet in August 2021.",
+              "links": [
+                {
+                  "text": "Minister of Finance",
+                  "type": "internal",
+                  "page": "Ministry of Finance (Tunisia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bouden Cabinet"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She refused to cover her head when she took the oath of office, breaking with tradition."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Tunisian female politician and finance minister",
+          "template": "short description"
+        },
+        {
+          "date": "January 2022",
+          "template": "expand french"
+        }
+      ]
+    }
+  ]
+}
