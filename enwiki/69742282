@@ -1,0 +1,64 @@
+{
+  "title": "Samir Saïed",
+  "pageID": 69742282,
+  "categories": [
+    "Living people",
+    "1957 births",
+    "21st-century Tunisian politicians",
+    "Independent politicians in Tunisia",
+    "Government ministers of Tunisia",
+    "Tunisian Muslims",
+    "École Centrale Paris alumni",
+    "Tunisian businesspeople"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Samir Saïed (Arabic: سمير سعيد ) (born 1957) is a Tunisian politician.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Arabic"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Samir Saïed"
+                ]
+              }
+            },
+            {
+              "text": "He has been Minister of Economy and Planning in the Bouden Cabinet.",
+              "links": [
+                {
+                  "text": "Minister of Economy and Planning",
+                  "type": "internal",
+                  "page": "Ministry of Economy and Planning (Tunisia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bouden Cabinet"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Tunisian business leader and politician",
+          "template": "short description"
+        },
+        {
+          "date": "January 2022",
+          "template": "expand french"
+        }
+      ]
+    }
+  ]
+}
