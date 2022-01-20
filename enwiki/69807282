@@ -1,0 +1,62 @@
+{
+  "title": "Neila Gonji",
+  "pageID": 69807282,
+  "categories": [
+    "Living people",
+    "1959 births",
+    "Women government ministers of Tunisia",
+    "21st-century Tunisian women politicians",
+    "Independent politicians in Tunisia",
+    "Industry ministers of Tunisia",
+    "Energy and mines ministers of Tunisia"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Neila Gonji (born 18 September 1959) is a Tunisian politician.",
+              "formatting": {
+                "bold": [
+                  "Neila Gonji"
+                ]
+              }
+            },
+            {
+              "text": "She is currently Minister of Industry, Energy and Mines in the Bouden Government.",
+              "links": [
+                {
+                  "text": "Minister of Industry, Energy and Mines",
+                  "type": "internal",
+                  "page": "Ministry of Industry (Tunisia)"
+                },
+                {
+                  "text": "Bouden Government",
+                  "type": "internal",
+                  "page": "Bouden Cabinet"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "January 2022",
+          "template": "one source"
+        },
+        {
+          "description": "Tunisian politician",
+          "template": "short description"
+        },
+        {
+          "date": "January 2022",
+          "template": "expand french"
+        }
+      ]
+    }
+  ]
+}
