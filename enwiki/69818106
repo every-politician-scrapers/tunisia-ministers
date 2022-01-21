@@ -1,0 +1,72 @@
+{
+  "title": "Nizar Ben Néji",
+  "pageID": 69818106,
+  "categories": [
+    "Living people",
+    "Tunisian politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Dr. Eng. Nizar Ben Néji is the Minister of Information and Communication Technologies since August 2021.",
+              "links": [
+                {
+                  "text": "Minister of Information and Communication Technologies",
+                  "type": "internal",
+                  "page": "Ministry of Information and Communication Technologies (Tunisia)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Nizar Ben Néji"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Nizar Ben Néji"
+          },
+          "native_name": {
+            "text": "نزار بن ناجي"
+          },
+          "native_name_lang": {
+            "text": "Arabic",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Arabic"
+              }
+            ]
+          },
+          "image": {
+            "text": "File:نزار بن ناجي.jpg"
+          },
+          "office": {
+            "text": "Minister of Information and Communication Technologies"
+          },
+          "term_start": {
+            "text": "August 2021"
+          },
+          "president": {
+            "text": "Kais Saied",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Kais Saied"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
