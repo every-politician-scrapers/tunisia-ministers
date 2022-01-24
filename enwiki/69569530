@@ -59,6 +59,10 @@
       ],
       "templates": [
         {
+          "description": "Tunisian politician",
+          "template": "short description"
+        },
+        {
           "list": [
             "Taoufik Charfeddine"
           ],
