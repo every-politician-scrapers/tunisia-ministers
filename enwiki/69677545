@@ -65,6 +65,12 @@
             }
           ]
         }
+      ],
+      "templates": [
+        {
+          "description": "Tunisian magistrate and politician",
+          "template": "short description"
+        }
       ]
     }
   ]

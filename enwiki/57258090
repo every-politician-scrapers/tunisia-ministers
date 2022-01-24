@@ -55,6 +55,10 @@
       ],
       "templates": [
         {
+          "description": "Tunisian poet, teacher and journalist",
+          "template": "short description"
+        },
+        {
           "date": "April 2018",
           "template": "refimprove"
         }
