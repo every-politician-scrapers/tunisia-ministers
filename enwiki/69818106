@@ -13,12 +13,12 @@
         {
           "sentences": [
             {
-              "text": "Nizar Ben Néji is the Minister of Information and Communication Technologies of Tunisia since August 2021.",
+              "text": "Nizar Ben Néji (born June 27, 1981) is a tunisian computer engineer and doctor in information and communication technologies, specializing in cybersecurity and cybercriminality with a special focus in his career on cryptography and PKI-related solutions.",
               "links": [
                 {
-                  "text": "Minister of Information and Communication Technologies",
+                  "text": "cryptography",
                   "type": "internal",
-                  "page": "Ministry of Information and Communication Technologies (Tunisia)"
+                  "page": "cryptography"
                 }
               ],
               "formatting": {
@@ -26,6 +26,16 @@
                   "Nizar Ben Néji"
                 ]
               }
+            },
+            {
+              "text": "Recognized for his expertise in innovation and qualified by his rich international experience in the field of information and communication technologies, cybersecurity and cybercriminality, Dr. Nizar Ben Neji has been appointed in charge of the Ministry of Information and Communication Technologies in Tunsia since August 2nd, 2021.",
+              "links": [
+                {
+                  "text": "Ministry of Information and Communication Technologies",
+                  "type": "internal",
+                  "page": "Ministry of Information and Communication Technologies (Tunisia)"
+                }
+              ]
             }
           ]
         }
