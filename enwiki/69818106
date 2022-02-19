@@ -13,7 +13,7 @@
         {
           "sentences": [
             {
-              "text": "Nizar Ben Néji (born June 27, 1981) is a tunisian computer engineer and doctor in information and communication technologies, specializing in cybersecurity and cybercriminality with a special focus in his career on cryptography and PKI-related solutions.",
+              "text": "Nizar Ben Néji PhD is a Tunisian computer engineer and doctor in information and communication technologies, specializing in cybersecurity and cyber criminality with a special focus in his career on cryptography and PKI-related solutions.",
               "links": [
                 {
                   "text": "cryptography",
@@ -28,7 +28,7 @@
               }
             },
             {
-              "text": "Recognized for his expertise in innovation and qualified by his rich international experience in the field of information and communication technologies, cybersecurity and cybercriminality, Dr. Nizar Ben Neji has been appointed in charge of the Ministry of Information and Communication Technologies in Tunsia since August 2nd, 2021.",
+              "text": "Recognized for his expertise in innovation and qualified by his rich international experience in the field of information and communication technologies, cybersecurity and cyber criminality, Dr. Ben Néji has been appointed in charge of the Ministry of Information and Communication Technologies in Tunisia since August 2nd, 2021.",
               "links": [
                 {
                   "text": "Ministry of Information and Communication Technologies",
@@ -44,10 +44,19 @@
         {
           "description": "Tunisian politician",
           "template": "short description"
+        },
+        {
+          "year": "1981",
+          "month": "06",
+          "day": "27",
+          "template": "birth date and age"
         }
       ],
       "infoboxes": [
         {
+          "honorific_prefix": {
+            "text": "H.E."
+          },
           "name": {
             "text": "Nizar Ben Néji"
           },
@@ -80,6 +89,9 @@
                 "page": "Kais Saied"
               }
             ]
+          },
+          "birth_date": {
+            "text": "June 27, 1981"
           }
         }
       ]
