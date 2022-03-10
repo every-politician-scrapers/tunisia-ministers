@@ -1,100 +1,11 @@
 {
-  "title": "Nizar Ben Néji",
-  "pageID": 69818106,
-  "categories": [
-    "Living people",
-    "Tunisian politicians"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Nizar Ben Néji is a Tunisian computer engineer and doctor in information and communication technologies, specializing in cybersecurity and cyber criminality with a special focus in his career on cryptography and PKI-related solutions.",
-              "links": [
-                {
-                  "text": "cryptography",
-                  "type": "internal",
-                  "page": "cryptography"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Nizar Ben Néji"
-                ]
-              }
-            },
-            {
-              "text": "Recognized for his expertise in innovation and qualified by his rich international experience in the field of information and communication technologies, cybersecurity and cyber criminality, Dr. Ben Néji has been appointed in charge of the Ministry of Information and Communication Technologies in Tunisia since August 2nd, 2021.",
-              "links": [
-                {
-                  "text": "Ministry of Information and Communication Technologies",
-                  "type": "internal",
-                  "page": "Ministry of Information and Communication Technologies (Tunisia)"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "description": "Tunisian politician",
-          "template": "short description"
-        },
-        {
-          "year": "1981",
-          "month": "06",
-          "day": "27",
-          "template": "birth date and age"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific_prefix": {
-            "text": "H.E."
-          },
-          "name": {
-            "text": "Nizar Ben Néji"
-          },
-          "native_name": {
-            "text": "نزار بن ناجي"
-          },
-          "native_name_lang": {
-            "text": "Arabic",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Arabic"
-              }
-            ]
-          },
-          "image": {
-            "text": "File:نزار بن ناجي.jpg"
-          },
-          "office": {
-            "text": "Minister of Information and Communication Technologies"
-          },
-          "term_start": {
-            "text": "August 2021"
-          },
-          "president": {
-            "text": "Kais Saied",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Kais Saied"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "June 27, 1981"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific_prefix": "H.E.",
+  "name": "Nizar Ben Néji",
+  "native_name": "نزار بن ناجي",
+  "native_name_lang": "Arabic",
+  "image": "File:نزار بن ناجي.jpg",
+  "office": "Minister of Information and Communication Technologies",
+  "term_start": "August 2021",
+  "president": "Kais Saied",
+  "birth_date": "June 27, 1981"
 }
