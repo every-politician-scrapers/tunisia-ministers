@@ -1,15 +1,17 @@
 {
-  "predecessor2": "Ridha Gharsallaoui",
-  "alma_mater": "University of Sousse",
-  "office2": "Minister of the Interior",
-  "term_start2": "11 October 2021",
-  "term_end3": "5 January 2021",
-  "term_start3": "2 September 2020",
-  "predecessor3": "Hichem Mechichi",
-  "successor3": "Hichem Mechichi",
+  "office": "Minister of the Interior",
+  "term_start": "11 October 2021",
+  "primeminister": "Najla Bouden",
+  "predecessor": "Ridha Gharsallaoui",
+  "term_start1": "2 September 2020",
+  "term_end1": "5 January 2021",
+  "primeminister1": "Hichem Mechichi",
+  "predecessor1": "Hichem Mechichi",
+  "successor1": "Hichem Mechichi",
   "birth_date": "November 24, 1968",
   "birth_place": "Tunisia",
   "nationality": "Tunisian",
   "party": "Independent",
-  "native_name": "توفيق شرف الدين"
+  "native_name": "توفيق شرف الدين",
+  "alma_mater": "University of Sousse"
 }
