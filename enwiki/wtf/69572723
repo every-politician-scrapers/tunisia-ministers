@@ -1,0 +1,81 @@
+{
+  "title": "Imed Memmich",
+  "pageID": 69572723,
+  "categories": [
+    "Living people",
+    "1966 births",
+    "Tunisian Muslims",
+    "Tunisian scholars",
+    "Carthage University",
+    "Defence ministers of Tunisia",
+    "21st-century Tunisian politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Imed Memmich (Arabic: عماد مميش ; born 8 September 1966) is a Tunisian scholar and politician currently serving as Minister of Defence.",
+              "links": [
+                {
+                  "text": "Arabic",
+                  "type": "internal",
+                  "page": "Arabic language"
+                },
+                {
+                  "text": "Minister of Defence",
+                  "type": "internal",
+                  "page": "Ministry of Defence (Tunisia)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Imed Memmich"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Tunisian academic and politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Imed Memmich"
+          ],
+          "date": "December 2021",
+          "template": "expand french"
+        }
+      ],
+      "references": [
+        {
+          "title": "Finalement, le gouvernement Najla Bouden est approuvé : la composition complète et les biographies",
+          "url": "https://leaders.com.tn/article/32510-finalement-le-gouvernement-najla-bouden-est-approuve-la-composition-complete-et-les-biographies",
+          "access-date": "2021-12-22",
+          "website": "Leaders",
+          "language": "fr",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "tunisia-politician-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "title": "Leïla Jaffel",
+  "pageID": 69677545,
+  "categories": [
+    "Living people",
+    "1960 births",
+    "Tunisian women lawyers",
+    "21st-century Tunisian women politicians",
+    "Independent politicians in Tunisia",
+    "Female justice ministers",
+    "Justice ministers of Tunisia",
+    "Women government ministers of Tunisia",
+    "21st-century Tunisian politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Leïla Jaffel (Arabic ليلى جفال) (born 29 August 1960) is a Tunisian magistrate and politician currently serving as Minister of Justice in the Bouden Cabinet.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Arabic"
+                },
+                {
+                  "text": "Tunisian",
+                  "type": "internal",
+                  "page": "Tunisia"
+                },
+                {
+                  "text": "Minister of Justice",
+                  "type": "internal",
+                  "page": "Ministry of Justice (Tunisia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bouden Cabinet"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Leïla Jaffel"
+                ],
+                "italic": [
+                  "Arabic"
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She was Minister of State Domains and Land Affairs in the Mechichi Cabinet.",
+              "links": [
+                {
+                  "text": "Minister of State Domains and Land Affairs",
+                  "type": "internal",
+                  "page": "Ministry of State Domains and Land Affairs (Tunisia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Mechichi Cabinet"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Tunisian magistrate and politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "date": "2021-10-11",
+          "title": "Biographie de Leila Jaffel, ministre de la Justice",
+          "url": "https://lapresse.tn/111632/biographie-de-leila-jaffel-ministre-de-la-justice/",
+          "access-date": "2022-01-05",
+          "website": "La Presse de Tunisie",
+          "language": "fr-FR",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reference list"
+        },
+        {
+          "template": "tunisia-politician-stub"
+        }
+      ]
+    }
+  ]
+}

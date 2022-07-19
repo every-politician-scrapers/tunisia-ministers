@@ -1,0 +1,195 @@
+{
+  "title": "Taoufik Charfeddine",
+  "pageID": 69569530,
+  "categories": [
+    "1968 births",
+    "Living people",
+    "21st-century Tunisian politicians",
+    "Independent politicians in Tunisia",
+    "Interior ministers of Tunisia",
+    "Tunisian Muslims",
+    "University of Sousse alumni"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Taoufik Charfeddine (Arabic: توفيق شرف الدين ) (born 24 November 1968) is a Tunisian politician.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Arabic"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Taoufik Charfeddine"
+                ]
+              }
+            },
+            {
+              "text": "He is Minister of Interior in the Bouden Cabinet.",
+              "links": [
+                {
+                  "text": "Minister of Interior",
+                  "type": "internal",
+                  "page": "Ministry of the Interior (Tunisia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bouden Cabinet"
+                }
+              ]
+            },
+            {
+              "text": "He served in the same role in the Mechichi Cabinet.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Mechichi Cabinet"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Tunisian politician",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "Taoufik Charfeddine"
+          ],
+          "topic": "gov",
+          "date": "December 2021",
+          "template": "expand french"
+        },
+        {
+          "df": "yes",
+          "year": "1968",
+          "month": "11",
+          "day": "24",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "Taoufik Charfeddine.jpg"
+          },
+          "office": {
+            "text": "Minister of the Interior",
+            "links": [
+              {
+                "text": "Minister of the Interior",
+                "type": "internal",
+                "page": "Ministry of the Interior (Tunisia)"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "11 October 2021"
+          },
+          "primeminister": {
+            "text": "Najla Bouden",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Najla Bouden"
+              }
+            ]
+          },
+          "predecessor": {
+            "text": "Ridha Gharsallaoui",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ridha Gharsallaoui"
+              }
+            ]
+          },
+          "term_start1": {
+            "text": "2 September 2020"
+          },
+          "term_end1": {
+            "text": "5 January 2021"
+          },
+          "primeminister1": {
+            "text": "Hichem Mechichi",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Hichem Mechichi"
+              }
+            ]
+          },
+          "predecessor1": {
+            "text": "Hichem Mechichi"
+          },
+          "successor1": {
+            "text": "Hichem Mechichi"
+          },
+          "birth_date": {
+            "text": "November 24, 1968"
+          },
+          "birth_place": {
+            "text": "Tunisia",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tunisia"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Tunisian"
+          },
+          "party": {
+            "text": "Independent"
+          },
+          "native_name": {
+            "text": "توفيق شرف الدين"
+          },
+          "alma_mater": {
+            "text": "University of Sousse",
+            "links": [
+              {
+                "type": "internal",
+                "page": "University of Sousse"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "title": "Taoufik Charfeddine revient à la tête du ministère de l’Intérieur",
+          "url": "https://www.leaders.com.tn/article/32516-taoufik-charfeddine-revient-a-la-tete-du-ministere-de-l-interieur",
+          "access-date": "2021-12-22",
+          "website": "Leaders",
+          "language": "fr",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "tunisia-politician-stub"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "title": "Sihem Boughdiri",
+  "pageID": 69731520,
+  "categories": [
+    "1965 births",
+    "Living people",
+    "Female finance ministers",
+    "Women government ministers of Tunisia",
+    "Finance ministers of Tunisia",
+    "21st-century Tunisian politicians",
+    "21st-century Tunisian women politicians",
+    "Independent politicians in Tunisia",
+    "Women bankers"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sihem Boughdiri Nemsia (Arabic: سهام بوغديري نمصية ) is a Tunisian banker and politician.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Arabic"
+                },
+                {
+                  "text": "Tunisian",
+                  "type": "internal",
+                  "page": "Tunisia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Sihem Boughdiri Nemsia"
+                ],
+                "italic": [
+                  "Arabic"
+                ]
+              }
+            },
+            {
+              "text": "She has been Minister of Finance in the Bouden Cabinet in August 2021.",
+              "links": [
+                {
+                  "text": "Minister of Finance",
+                  "type": "internal",
+                  "page": "Ministry of Finance (Tunisia)"
+                },
+                {
+                  "type": "internal",
+                  "page": "Bouden Cabinet"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "She refused to cover her head when she took the oath of office, breaking with tradition."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Tunisian female politician and finance minister",
+          "template": "short description"
+        },
+        {
+          "date": "January 2022",
+          "template": "expand french"
+        }
+      ],
+      "references": [
+        {
+          "title": "Qui est Sihem Boughdiri Nemsia, nouvelle ministre des Finances",
+          "url": "https://www.leaders.com.tn/article/32513-qui-est-sihem-boughdiri-nemsia-nouvelle-ministre-ministre-des-finances",
+          "access-date": "2022-01-11",
+          "website": "Leaders",
+          "language": "fr",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2021-10-13",
+          "title": "Féminisme. Une ministre tunisienne refuse de se couvrir la tête pour prêter serment",
+          "url": "https://www.courrierinternational.com/article/feminisme-une-ministre-tunisienne-refuse-de-se-couvrir-la-tete-pour-preter-serment",
+          "access-date": "2022-01-11",
+          "website": "Courrier international",
+          "language": "fr",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "tunisia-politician-stub"
+        }
+      ]
+    }
+  ]
+}

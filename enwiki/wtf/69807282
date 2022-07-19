@@ -1,0 +1,94 @@
+{
+  "title": "Neila Gonji",
+  "pageID": 69807282,
+  "categories": [
+    "Living people",
+    "1959 births",
+    "Women government ministers of Tunisia",
+    "21st-century Tunisian women politicians",
+    "21st-century Tunisian politicians",
+    "Independent politicians in Tunisia",
+    "Industry ministers of Tunisia",
+    "Energy and mines ministers of Tunisia"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Neila Gonji (born 18 September 1959) is a Tunisian politician.",
+              "links": [
+                {
+                  "text": "Tunisian",
+                  "type": "internal",
+                  "page": "Tunisia"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Neila Gonji"
+                ]
+              }
+            },
+            {
+              "text": "She is currently Minister of Industry, Energy and Mines in the Bouden Government.",
+              "links": [
+                {
+                  "text": "Minister of Industry, Energy and Mines",
+                  "type": "internal",
+                  "page": "Ministry of Industry (Tunisia)"
+                },
+                {
+                  "text": "Bouden Government",
+                  "type": "internal",
+                  "page": "Bouden Cabinet"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "January 2022",
+          "template": "one source"
+        },
+        {
+          "description": "Tunisian politician",
+          "template": "short description"
+        },
+        {
+          "date": "January 2022",
+          "template": "expand french"
+        }
+      ],
+      "references": [
+        {
+          "date": "2021-10-11",
+          "title": "Biographie de Neila Nouira Gonji, ministre de l’Industrie et de l’Énergie",
+          "url": "https://lapresse.tn/111654/biographie-de-neila-nouira-gonji-ministre-de-lindustrie-et-de-lenergie/",
+          "access-date": "2022-01-17",
+          "website": "La Presse de Tunisie",
+          "language": "fr-FR",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reference list"
+        },
+        {
+          "template": "tunisia-politician-stub"
+        }
+      ]
+    }
+  ]
+}
